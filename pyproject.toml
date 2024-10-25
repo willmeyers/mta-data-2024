@@ -1,0 +1,16 @@
+[project]
+name = "mta2024"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cutecharts>=1.2.0",
+    "geopandas>=1.0.1",
+    "ipython>=8.28.0",
+    "jupyterlab>=4.2.5",
+    "matplotlib>=3.9.2",
+    "pandas>=2.2.3",
+    "py-roughviz>=0.5.1",
+    "seaborn>=0.13.2",
+]
